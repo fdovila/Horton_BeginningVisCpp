@@ -1,0 +1,35 @@
+﻿Build started 27/07/2012 16:56:00.
+     1>Project "E:\Beginning Visual C++ 2012 latest\Code from the Book\Chapter 14\4 Sketcher drawing elements\Sketcher\Sketcher.vcxproj" on node 2 (Build target(s)).
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Sketcher.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Sketcher.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ChildFrm.cpp Circle.cpp Curve.cpp Element.cpp Line.cpp MainFrm.cpp Rectangle.cpp Sketcher.cpp SketcherDoc.cpp SketcherView.cpp
+         SketcherView.cpp
+         SketcherDoc.cpp
+         Sketcher.cpp
+         Rectangle.cpp
+         MainFrm.cpp
+         Line.cpp
+         Element.cpp
+         Curve.cpp
+         Circle.cpp
+         ChildFrm.cpp
+         Generating Code...
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\Sketcher.res" Sketcher.rc 
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Beginning Visual C++ 2012 latest\Code from the Book\Chapter 14\4 Sketcher drawing elements\Debug\Sketcher.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\Beginning Visual C++ 2012 latest\Code from the Book\Chapter 14\4 Sketcher drawing elements\Debug\Sketcher.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Beginning Visual C++ 2012 latest\Code from the Book\Chapter 14\4 Sketcher drawing elements\Debug\Sketcher.lib" /MACHINE:X86 Debug\Sketcher.res
+         Debug\ChildFrm.obj
+         Debug\Circle.obj
+         Debug\Curve.obj
+         Debug\Element.obj
+         Debug\Line.obj
+         Debug\MainFrm.obj
+         Debug\Rectangle.obj
+         Debug\Sketcher.obj
+         Debug\SketcherDoc.obj
+         Debug\SketcherView.obj
+         Debug\stdafx.obj
+         Sketcher.vcxproj -> E:\Beginning Visual C++ 2012 latest\Code from the Book\Chapter 14\4 Sketcher drawing elements\Debug\Sketcher.exe
+     1>Done Building Project "E:\Beginning Visual C++ 2012 latest\Code from the Book\Chapter 14\4 Sketcher drawing elements\Sketcher\Sketcher.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.02
